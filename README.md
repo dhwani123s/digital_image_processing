@@ -1,5 +1,5 @@
 # digital_image_processing
-MATLAB lab work of Digital Image and Video Processing
+MATLAB work of Digital Image and Video Processing
 
 
 AIM 1 : 
